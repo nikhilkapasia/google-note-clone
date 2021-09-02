@@ -1,0 +1,81 @@
+.App {
+ margin: 40px 50px 40px 50px;
+ min-height: 1000px;
+ background-color: #FFDEE9;
+background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+border: #f1d65d solid 5px;
+border-radius: 20px;
+}
+
+
+.header{
+  background-image: linear-gradient( 135deg, #2AFADF 10%, #4C83FF 100%);
+ 
+  display: inline-flex;
+  font-size: 35px;
+  width: 100%;
+ border-bottom: #e94545 solid 5px ;
+ border-radius: 17px;
+}
+
+.title{
+  margin: 20px;
+  color: #f0f32e;
+}
+
+
+
+.paper{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.inputa{
+  padding: 10px;
+  width: 259px;
+font-family: 'Times New Roman', Times, serif;
+font-size: x-large;
+font-weight: bolder;
+  border-style: none;
+  color: red;
+  border-top: #0fb918 solid 5px ;
+}
+.texta{
+  width: 275px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: large;
+font-weight: bold;
+height: 100px;
+  border-style: none;
+  color: midnightblue;
+    border-bottom: #1d0a63 solid 5px ;
+}
+.yournotes{
+  min-width: 25%;
+  margin: 20px;
+    float: left;
+    padding: 15px;
+    border-style: none;
+    background-color: white;
+    border-radius: 10px;
+    border-bottom: #f74141 solid 5px ;
+
+}
+.button{
+  
+  background-image: linear-gradient(to right, #e01f96 0%, #d83838  51%, #ebab4c  100%);
+  
+     margin: 10px;
+     padding: 15px 45px;
+     text-align: center;
+     text-transform: uppercase;
+     transition: 0.5s;
+     background-size: 200% auto;
+               
+     box-shadow: 0 0 20px #eee;
+     border-radius: 10px;
+     display: block;
+   
+ 
+  
+}
