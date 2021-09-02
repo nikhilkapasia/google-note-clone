@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/google-note-clone/static/css/main.3f346a57.chunk.css",
+    "main.js": "/google-note-clone/static/js/main.d48ef11a.chunk.js",
+    "main.js.map": "/google-note-clone/static/js/main.d48ef11a.chunk.js.map",
+    "runtime-main.js": "/google-note-clone/static/js/runtime-main.d3612831.js",
+    "runtime-main.js.map": "/google-note-clone/static/js/runtime-main.d3612831.js.map",
+    "static/js/2.02c378f1.chunk.js": "/google-note-clone/static/js/2.02c378f1.chunk.js",
+    "static/js/2.02c378f1.chunk.js.map": "/google-note-clone/static/js/2.02c378f1.chunk.js.map",
+    "index.html": "/google-note-clone/index.html",
+    "static/css/main.3f346a57.chunk.css.map": "/google-note-clone/static/css/main.3f346a57.chunk.css.map",
+    "static/js/2.02c378f1.chunk.js.LICENSE.txt": "/google-note-clone/static/js/2.02c378f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3612831.js",
+    "static/js/2.02c378f1.chunk.js",
+    "static/css/main.3f346a57.chunk.css",
+    "static/js/main.d48ef11a.chunk.js"
+  ]
+}
